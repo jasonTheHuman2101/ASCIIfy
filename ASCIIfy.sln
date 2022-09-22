@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIIfy", "ASCIIfy.csproj", "{51A9519B-9311-466D-AD1A-28459F6C974D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A9519B-9311-466D-AD1A-28459F6C974D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A9519B-9311-466D-AD1A-28459F6C974D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A9519B-9311-466D-AD1A-28459F6C974D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A9519B-9311-466D-AD1A-28459F6C974D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF7A66C4-9069-45B7-93A9-AA52FE1A4510}
+	EndGlobalSection
+EndGlobal
