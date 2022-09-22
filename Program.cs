@@ -70,6 +70,12 @@ namespace ASCIIfy
             else if (average < 204) { pixChar = '░'; }
             else { pixChar = ' ';  }
 
+            //if (average < 51) { pixChar = '#'; }
+            //else if (average < 102) { pixChar = '='; }
+            //else if (average < 153) { pixChar = '-'; }
+            //else if (average < 204) { pixChar = '*'; }
+            //else { pixChar = ' '; }
+
             currentLine.Add(pixChar);
         }
     }
