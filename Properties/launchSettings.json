@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ASCIIfy": {
+      "commandName": "Project",
+      "commandLineArgs": "car-roofd.png"
+    }
+  }
+}

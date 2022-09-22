@@ -31,6 +31,20 @@ namespace ASCIIfy
             Bitmap b = new Bitmap(path);
             int width = b.Width;
             int height = b.Height;
+
+            for (int h = 0; h < height; h++)
+            {
+                for (int w = 0; w < width; w++)
+                {
+                    Color pixelColor = b.GetPixel(w, h);
+                    RenderPixel(pixelColor);
+                }
+            }
+        }
+
+        static void RenderPixel(Color c)
+        {
+
         }
     }
 }
